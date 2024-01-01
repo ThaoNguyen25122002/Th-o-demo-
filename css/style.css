@@ -1,5 +1,5 @@
 body {
-  background-image: url("/image/background2.jpg");
+  background-image: url("https://images.unsplash.com/photo-1445272885371-027f17af0130?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   width: 100%;
   height: 100%;
   background-size: cover;
